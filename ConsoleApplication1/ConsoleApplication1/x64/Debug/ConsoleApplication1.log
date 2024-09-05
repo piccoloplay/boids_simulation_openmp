@@ -1,0 +1,8 @@
+﻿  boids_non_parallel.cpp
+C:\Users\imnot\Documents\UNIFI\Parallel Computing\ConsoleApplication1\ConsoleApplication1\boids_non_parallel.cpp(128,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\imnot\Documents\UNIFI\Parallel Computing\ConsoleApplication1\ConsoleApplication1\boids_non_parallel.cpp(128,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  boids_simulation_v2.cpp
+C:\Users\imnot\Documents\UNIFI\Parallel Computing\ConsoleApplication1\ConsoleApplication1\boids_simulation_v2.cpp(133,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\imnot\Documents\UNIFI\Parallel Computing\ConsoleApplication1\ConsoleApplication1\boids_simulation_v2.cpp(133,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  ConsoleApplication1.vcxproj -> C:\Users\imnot\Documents\UNIFI\Parallel Computing\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
