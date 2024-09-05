@@ -1,6 +1,12 @@
 # Boids Simulation with OpenMP
 
 This project is a parallelized implementation of a Boids simulation using OpenMP for concurrency and SFML for real-time visualization. The purpose of this project is to demonstrate the benefits of parallel processing in computationally intensive tasks like simulating the flocking behavior of birds (boids).
+## Demo
+
+You can watch a demo of the Boids Simulation in action on YouTube:
+
+[![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg)]([https://youtu.be/YOUTUBE_VIDEO_ID](https://www.youtube.com/watch?v=J8ZbAqeAC7E))
+
 
 ## Features
 
