@@ -5,7 +5,7 @@ This project is a parallelized implementation of a Boids simulation using OpenMP
 
 You can watch a demo of the Boids Simulation in action on YouTube:
 
-[![Watch the video](https://img.youtube.com/vi/J8ZbAqeAC7E/maxresdefault.jpg)](https://youtu.be/J8ZbAqeAC7E)
+[![Watch the video](https://img.youtube.com/vi/5O4LElh-8Cg/maxresdefault.jpg)](https://youtu.be/5O4LElh-8Cg)
 
 
 ## Features
